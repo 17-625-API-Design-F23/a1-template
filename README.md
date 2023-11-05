@@ -31,10 +31,10 @@ Make sure to have no trailing spaces or newlines.
 | Criteria                                      | Points | Method        |
 | --------------------------------------------- | ------ | ---------     |
 | Design process                                | 30     | Manual        |
-| All endpoints are coded and documented well   | 20     | Manual + Auto |
+| All endpoints are coded and documented well   | 20     | Manual        |
 | All endpoints have working tests              | 20     | Auto          |
-| Tests have both correct and incorrect calls   | 10     | Manual + Auto |
-| Coding Standard                               | 10     | Manual + Auto |
+| Tests have both correct and incorrect calls   | 10     | Manual        |
+| Coding Standard                               | 5 + 5  | Manual + Auto |
 | Reflection                                    | 10     | Manual        |
 | **Total**                                     | 100    |               |
 
