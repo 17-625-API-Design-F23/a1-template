@@ -28,14 +28,14 @@ Make sure to have no trailing spaces or newlines.
 4. Committing and pushing your code to github would automatically trigger the autograder for your test cases. You can check the status of your submission on the Github actions tab.
 
 ## Grading
-| Criteria                                      | Points |
-| --------------------------------------------- | ------ |
-| Design process                                | 30     |
-| All endpoints are coded and documented well   | 20     |
-| All endpoints have well-documented tests      | 10     |
-| Tests specify both correct and incorrect API calls | 10 |
-| Coding Standard                               | 10     |
-| Reflection                                    | 20     |
-| **Total**                                     | 100    |
+| Criteria                                      | Points | Method        |
+| --------------------------------------------- | ------ | ---------     |
+| Design process                                | 30     | Manual        |
+| All endpoints are coded and documented well   | 20     | Manual + Auto |
+| All endpoints have working tests              | 20     | Auto          |
+| Tests have both correct and incorrect calls   | 10     | Manual + Auto |
+| Coding Standard                               | 10     | Manual + Auto |
+| Reflection                                    | 10     | Manual        |
+| **Total**                                     | 100    |               |
 
 Good luck and have fun!
