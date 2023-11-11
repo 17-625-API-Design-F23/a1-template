@@ -4,7 +4,7 @@ Welcome to Assignment 1! This is the Python setup repository for Assignment 1. Y
 
 ## Installation & Setup
 
-To get started, you will need to have Python 3.12.0 installed on your machine. If you don't have them installed, you can download them from the official website: https://www.python.org/downloads/
+To get started, you will need to have Python 3 installed on your machine. If you don't have them installed, you can download them from the official website: https://www.python.org/downloads/
 
 After this, you can create a virtual environment using venv 
 
